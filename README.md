@@ -1,6 +1,6 @@
 ## OpenCV: Open Source Computer Vision Library
 
-### Resources
+### Resources.
 
 * Homepage: <http://opencv.org>
 * Docs: <http://docs.opencv.org/master/>
